@@ -11,6 +11,8 @@ If this project is helpful to you and want to support it, you can:
 This project is **open-source, always FREE and no-AD**. However, a certain amount of funds are still needed to cover the expenses of servers, CDN and domains. Currently all are paid by developer except some donations.
 
 We sincerely welcome and greatly appreciate your support towards our project, which will be used to cover project expenses.
+
+We may consider to add ADs in the future.
 :::
 
 > Please leave a message to let me know that's donated for Chaldea.

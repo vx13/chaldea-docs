@@ -2,7 +2,7 @@
 
 如果本项目对你有帮助并希望支持本项目，你可以：
 
-- [Starring](https://github.com/chaldea-center/chaldea/stargazers) the repo
+- [Starring](https://github.com/chaldea-center/chaldea) the repo
 - 在 [Google Play](https://play.google.com/store/apps/details?id=cc.narumi.chaldea) 或 [App Store](https://apps.apple.com/us/app/chaldea/id1548713491?itsct=apps_box&itscg=30200) 上评分
 - 分享给你的好友
 - 帮忙[翻译](./translation.md)
@@ -11,7 +11,7 @@
 ::: warning 支持我们
 本应用**开源免费无广告**，虽已尽量采取低成本方案，但仍需投入一定的资金以维持服务器、CDN、域名等的开销。由于无广告收入，因此除部分捐赠外均由开发者自费支付。
 
-另一方面，学生党目前已无力继续维持收支，若本应用对您有所帮助，非常欢迎并感谢能够在各方面支持本项目！
+后期可能考虑加入广告。
 :::
 
 > 如果通过捐赠以支持本项目，请添加留言以注明用于捐赠 Chaldea 应用。

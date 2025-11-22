@@ -4,10 +4,10 @@
 
 | Platform        | Minimum Version             |
 | :-------------- | :-------------------------- |
-| Android         | Android 6.0 (API level 23)  |
-| iOS             | iOS 12.0                    |
+| Android         | Android 7.0 (API level 24)  |
+| iOS             | iOS 13.0                    |
 | Windows         | Windows 10, x64             |
-| macOS           | macOS 10.14                 |
+| macOS           | macOS 10.15                 |
 | Linux           | Debian 10, x64 <sup>1</sup> |
 | Web<sup>2</sup> | <https://chaldea.center>    |
 | Web(China)      | <https://cn.chaldea.center> |

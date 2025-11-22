@@ -4,10 +4,10 @@
 
 - This page: Https sniffing introdution
 - [Login via Account File](./authfile_login.md): The only method for ~~JP~~/NA, read 54cc file and login
+- [Reqable](./reqable.md): all platforms
 - [Stream-iOS](./stream.md): iOS only, CN/TW
 - [mitmproxy-PC](./mitmproxy.md): Android/iOS with mitmproxy(PC)
 - [Charles-PC](./charles.md): Android/iOS with Charles(PC)
-- [HttpCanary-Android](./httpcanary.md): Android only
 - Other Tips
   - [Transfer Data](./transfer_data.md): Keep JP/NA account data in multiple clients
 
@@ -38,7 +38,7 @@
 
 Capture the network traffic when FGO client login to terminal which contains the data of all servants(ascension/palingenesis/bond/active skill/append skill/costume/coins), materials and CEs. Then easily import it to Chaldea app, no need to manually input servant data anymore.
 
-The tutorial is just an example. The core of the method is HTTPS traffic capture, so any method or software that can obtain the https response body can be used, such as **Charles**, **Fiddler**, **mitmproxy**, **Surge** or **NetCapture**. You can search the following keywords `Charles/https sniffing/mobile/emulator/global proxy` to find more online tutorials.
+The tutorial is just an example. The core of the method is HTTPS traffic capture, so any method or software that can obtain the https response body can be used, such as **Reqable**, **Charles**, **Fiddler**, **mitmproxy**, **Surge** or **NetCapture**. You can search the following keywords `Charles/https sniffing/mobile/emulator/global proxy` to find more online tutorials.
 
 Note that the final exported data must only include the response body, excluding response headers and other information, and the response body must be a valid json(for JP/NA), or base64 encoded string(for CN/TW).
 

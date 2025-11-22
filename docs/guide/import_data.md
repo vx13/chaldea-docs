@@ -32,6 +32,10 @@ See [Import HTTPS Response](./import_https/) for details.
 
 ## Item Screenshots
 
+::: danger
+No longer maintained, please use other methods to import.
+:::
+
 ::: warning
 Don't crop, don't use split screen mode, make sure the game fills the entire screen.
 
@@ -52,6 +56,10 @@ Don't crop, don't use split screen mode, make sure the game fills the entire scr
 <figcaption style="text-align:center">Item Screenshot Example</figcaption>
 
 ## Skill Recognition
+
+::: danger
+No longer maintained, please use other methods to import.
+:::
 
 ::: warning
 Don't crop, don't use split screen mode, make sure the game fills the entire screen.

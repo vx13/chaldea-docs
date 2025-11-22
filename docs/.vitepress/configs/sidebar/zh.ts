@@ -27,10 +27,10 @@ export const sidebarZh: DefaultTheme.Sidebar = {
           items: [
             { text: '抓包简介', link: '/' },
             { text: '模拟登陆(JP/NA)', link: 'authfile_login' },
+            { text: 'Reqable', link: 'reqable' },
             { text: 'Stream-iOS', link: 'stream' },
             { text: 'mitmproxy', link: 'mitmproxy' },
             { text: 'Charles', link: 'charles' },
-            { text: 'HttpCanary-Android', link: 'httpcanary' },
             { text: 'Quantumult X', link: 'quantumultx' },
             { text: '解码小工具', link: 'decoder' },
             { text: '迁移数据', link: 'transfer_data' },

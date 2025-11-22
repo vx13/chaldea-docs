@@ -4,10 +4,10 @@
 
 - 本页：抓包介绍
 - [模拟登陆](./authfile_login.md): ~~日服~~&美服 ，读取 54cc 账号文件实现账号登录并获取数据，最快捷但风险自理
+- [Reqable](./reqable.md): 适用于全平台
 - [Stream-iOS](./stream.md): 国服/台服 iOS 抓包教程
 - [mitmproxy 版教程-PC](./mitmproxy.md): Android 配合 mitmproxy(PC)教程
 - [Charles 版教程-PC](./charles.md): Android/iOS 配合 Charles(PC)教程
-- [HttpCanary-Android](./httpcanary.md): Android 抓包教程
 - [Quantumult X-iOS](./quantumultx.md): 国服&台服 iOS 抓包（付费 app）
 - 其他
   - [迁移数据](./transfer_data.md): 日服/美服多客户端共存
@@ -78,7 +78,7 @@
 
 通过抓取用户登陆时的 https 请求的响应内容可以将用户所有的数据导入到 Chaldea 应用中，包括从者信息(灵基再临、圣杯、羁绊、主动技能、附加技能、灵衣、从者硬币)、素材数量以及概念礼装图鉴的情况。第一次使用需要配置抓包软件、代理软件等步骤多一些，成功后第二次就比较简洁。
 
-该方法核心即为 HTTPS 抓包，因此任何能够获取 https 的响应体(Response body)的方法或软件均可，如**Stream(iOS)**、**Charles**、**Fiddler**、**mitmproxy**、**Surge(iOS)** 或 **HttpCanary(Android)** 等。你可以打开搜索引擎搜索以下几个关键词以获取其他相关教程: `Charles https 抓包 手机/模拟器`。
+该方法核心即为 HTTPS 抓包，因此任何能够获取 https 的响应体(Response body)的方法或软件均可，如**Reqable**、**Stream(iOS)**、**Charles**、**Fiddler**、**mitmproxy**、**Surge(iOS)** 等。你可以打开搜索引擎搜索以下几个关键词以获取其他相关教程: `Charles https 抓包 手机/模拟器`。
 
 注意最终导出的数据务必仅包括响应体(body)，不包括响应头(headers)等信息，且与文末的格式相同，即 ey 开头的 base64 编码或 json 格式。
 

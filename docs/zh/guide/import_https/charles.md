@@ -2,10 +2,6 @@
 
 本文详细介绍借助 Charles 实现 https 抓包的步骤。
 
-::: tip
-国服目前已恢复默认使用系统代理且iOS和Android号可互登，iOS 推荐使用原[Stream-iOS](./stream.md)教程，无需电脑操作，方便快捷。
-:::
-
 ## 所需软件或工具
 
 - Charles: 提供 Windows、macOS 以及 Linux 版，官方正版试用版存在单次使用 30 分钟的限制，但功能够用

@@ -1,9 +1,5 @@
 # Charles Sniffning
 
-::: tip
-HttpCanary is recommended for Android sniffing. It doesn't need PC or the first time only. Check [HttpCanary-Android](./httpcanary.md)
-:::
-
 ## Requirements
 
 - Charles: support Windows, macOS, Linux, you can download from official website: <https://www.charlesproxy.com/download/>

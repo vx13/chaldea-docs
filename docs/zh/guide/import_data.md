@@ -31,6 +31,10 @@
 
 ## 素材截图解析 {#item-screenshots}
 
+::: danger
+不再维护，请使用其他方法导入
+:::
+
 ::: warning
 不要裁剪，不要分屏，保证全屏游戏并截图。一次上传图片数量不要太多，100 秒超时失败！
 :::
@@ -45,6 +49,10 @@
 <figcaption style="text-align:center">素材截图范例</figcaption>
 
 ## 技能截图解析 {#skill-recognition}
+
+::: danger
+不再维护，请使用其他方法导入
+:::
 
 ::: warning
 不要裁剪，不要分屏，保证全屏游戏并截图。一次上传图片数量不要太多，100 秒超时失败！
