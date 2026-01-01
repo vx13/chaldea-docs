@@ -21,7 +21,7 @@
   - [mitmproxy](./mitmproxy.md)/[Charles](./charles.md) + Android, iOS不可用
 - 国服/台服(注意国服iOS和Android已经可以互登):
   - iOS: [Stream](./stream.md)! 5分钟搞定！
-  - Android: 优先[mitmproxy](./mitmproxy.md)，次选[Charles](./charles.md)
+  - Android: 优先[mitmproxy](./mitmproxy.md)/[mitmproxy 2026](./mitmproxy_2026.md)，次选[Charles](./charles.md)
 - 美服:
   - 模拟登陆
 
